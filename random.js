@@ -5,3 +5,5 @@ function getRandomPrhase(){
         return prhases[randomIndex];
 
 }
+
+print(getRandomPrhase());

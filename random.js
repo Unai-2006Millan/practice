@@ -6,4 +6,4 @@ function getRandomPrhase(){
 
 }
 
-print(getRandomPrhase());
+console.log(getRandomPrhase());
